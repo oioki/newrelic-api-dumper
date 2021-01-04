@@ -1,0 +1,15 @@
+entities = [
+    'mobile_applications',
+    'browser_applications',
+    'key_transactions',
+    'users',
+    'alerts_events',
+    'alerts_policies',
+    'alerts_channels',
+    'alerts_violations',
+    'alerts_incidents',
+    'dashboards',
+    'plugins',
+    'components',
+    'labels',
+]
